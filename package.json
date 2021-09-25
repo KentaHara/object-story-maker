@@ -5,7 +5,7 @@
   "license": "",
   "author": "KentaHara",
   "scripts": {
-    "start": "src/main.ts",
+    "start": "node src/main.ts",
     "test": "jest",
     "lint": "eslint --ext .ts,.js --ignore-path .gitignore .",
     "lintFix": "eslint --fix --ext .ts,.js --ignore-path .gitignore ."
